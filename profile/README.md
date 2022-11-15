@@ -10,3 +10,6 @@ Why? Because it's fun and you can learn a lot from doing it so.
 
 Mono-Repo approach, if you are interested, see my [banana](https://github.com/alleaffengaffen/banana) repo and have fun reading short docs with a lot of typos ;).
 
+## Other projecs
+
+Oh and there are some more repos from a trial with Cluster-API, but that's currently on hold until CAPI has evolved a bit more.
