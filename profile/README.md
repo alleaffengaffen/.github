@@ -1,5 +1,7 @@
 # alleaffengaffen
 
+![always poc](https://img.shields.io/badge/Status-Always%20PoC-green)
+
 My personal organization for playing with Kubernetes.
 
 ## Current Project
