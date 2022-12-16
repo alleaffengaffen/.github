@@ -1,4 +1,4 @@
-# `alleaffengaffen` 
+# alleaffengaffen
 
 My personal organization for playing with Kubernetes.
 
@@ -13,3 +13,12 @@ Mono-Repo approach, if you are interested, see my [banana](https://github.com/al
 ## Other projecs
 
 Oh and there are some more repos from a trial with Cluster-API, but that's currently on hold until CAPI has evolved a bit more.
+
+## What means alleaffengaffen?
+
+The word alleaffengaffen doesn't exist itself but is rather a composition of three different words written together and it can only be fully understood if you hear the pronunciation of it in german. But for non-german speakers here's an explanation:
+
+- alle = all
+- affen = monkeys
+- gaffen = gwap
+
