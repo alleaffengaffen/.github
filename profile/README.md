@@ -14,7 +14,10 @@ Mono-Repo approach, if you are interested, see my [banana](https://github.com/al
 
 ## Other projecs
 
-Oh and there are some more repos from a trial with Cluster-API, but that's currently on hold until CAPI has evolved a bit more.
+There are some more repos:
+
+- admin: trial with Cluster-API, but that's currently on hold until CAPI has evolved a bit more.
+- cucumber: terraform code for AWS EKS cluster deployment
 
 ## What means alleaffengaffen?
 
